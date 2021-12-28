@@ -3,13 +3,14 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>171e92a9-3ba4-4dac-824c-176d4d8fa5fd</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
-    <StartupFile>first_ml_app.py</StartupFile>
+    <ProjectHome>
+    </ProjectHome>
+    <StartupFile>first_ml_app_demo.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>first_ml_app</Name>
+    <Name>first_ml_app_demo</Name>
     <RootNamespace>first_ml_app</RootNamespace>
     <InterpreterId>CondaEnv|CondaEnv|first_ml_app_env</InterpreterId>
   </PropertyGroup>
@@ -22,10 +23,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="first_ml_app.py" />
-  </ItemGroup>
-  <ItemGroup>
-    <InterpreterReference Include="CondaEnv|CondaEnv|first_ml_app_env" />
+    <Compile Include="first_ml_app_demo.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="requirements.txt" />
