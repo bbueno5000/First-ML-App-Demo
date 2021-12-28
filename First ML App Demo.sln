@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1082
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "first_ml_app", "first_ml_app\first_ml_app.pyproj", "{171E92A9-3BA4-4DAC-824C-176D4D8FA5FD}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "first_ml_app_demo", "first_ml_app\first_ml_app_demo.pyproj", "{171E92A9-3BA4-4DAC-824C-176D4D8FA5FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
